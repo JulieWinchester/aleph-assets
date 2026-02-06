@@ -2,7 +2,7 @@
   "@context": "http://iiif.io/api/presentation/4/context.json",
   "id": "https://example.org/iiif/3d/model_origin.json",
   "type": "Manifest",
-  "label": { "en": ["Uma Thurmanae holotype compared with 3D Uma notata"] },
+  "label": { "en": ["Uma thurmanae holotype compared with 3D Uma notata"] },
   "summary": { "en": ["..."] },
   "structures": [
     {
